@@ -6,6 +6,7 @@
     "dalekjs": "0.0.6",
     "dalek-reporter-html": "0.0.2",
     "dalek-browser-chrome": "0.0.5",
-    "dalek-browser-firefox": "0.0.5"
+    "dalek-browser-firefox": "0.0.5",
+    "dalek-browser-ie": "0.0.2"
   }
 }

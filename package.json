@@ -1,0 +1,11 @@
+{
+  "name": "foo",
+  "description": "test",
+  "version": "0.0.1",
+  "devDependencies": {
+    "dalekjs": "0.0.6",
+    "dalek-reporter-html": "0.0.2",
+    "dalek-browser-chrome": "0.0.5",
+    "dalek-browser-firefox": "0.0.5"
+  }
+}
